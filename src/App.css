@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+
+.App{
+    display: flex;
+    flex-direction: column;
+}
